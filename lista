@@ -133,9 +133,8 @@ http://158.69.173.16:25461/live/Everton01/Everton01/2269.m3u8
 http://158.69.173.16:25461/live/Everton01/Everton01/2270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FALA LITORAL WEB TV" tvg-logo="https://imgur.com/X3lIFxM.png" group-title="ERTN: AGERAL",FALA LITORAL WEB TV
 http://158.69.173.16:25461/live/Everton01/Everton01/2271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="ERTN: AGERAL",GLOBO 
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/2110px-Globo_logo_%282020-%29.svg.png" group-title="GLOBO",GLOBO 
 https://live-cm-ah-14-36.video.globo.com/h/0401646330236152839965016462438361055002305DjLcgVGqSsZlPU7jZt2ipw/k/html5/a/F/u/b18df40a-78f7-40d7-bbdd-e9a4c4fb9b5d/nu/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8
-http://158.69.173.16:25461/live/Everton01/Everton01/2273.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLN FILMES" tvg-logo="https://i.imgur.com/wvmSXbR.jpg" group-title="ERTN: AGERAL",GLN FILMES
 http://158.69.173.16:25461/live/Everton01/Everton01/2274.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GHOST TV" tvg-logo="https://i.imgur.com/wvmSXbR.jpg" group-title="ERTN: AGERAL",GHOST TV
