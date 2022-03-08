@@ -1,424 +1,422 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="BandTVGoianiaHD.br" tvg-name="BAND TV GOIANIA FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="H265 ",BAND TV GOIANIA FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884631
+http://38.91.101.172:80/live/crim731c/nneyaylp/884631.m3u8
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="REDE BANDEIRANTES",BAND SP HD
-http://38.91.101.172:80/crim731c/nneyaylp/884632
+http://38.91.101.172:80/live/crim731c/nneyaylp/884632.m3u8
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="REDE BANDEIRANTES",BAND SP FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884633
+http://38.91.101.172:80/live/crim731c/nneyaylp/884633.m3u8
 #EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="REDE BANDEIRANTES",BAND RJ HD
-http://38.91.101.172:80/crim731c/nneyaylp/884634
+http://38.91.101.172:80/live/crim731c/nneyaylp/884634.m3u8
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP SD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND SP SD
-http://38.91.101.172:80/crim731c/nneyaylp/884640
+http://38.91.101.172:80/live/crim731c/nneyaylp/884640.m3u8
 #EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND BAHIA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884641
+http://38.91.101.172:80/live/crim731c/nneyaylp/884641.m3u8
 #EXTINF:-1 tvg-id="Band Minas HD" tvg-name="BAND MINAS FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND MINAS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884642
+http://38.91.101.172:80/live/crim731c/nneyaylp/884642.m3u8
 #EXTINF:-1 tvg-id="Band Minas" tvg-name="BAND MINAS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND MINAS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884643
+http://38.91.101.172:80/live/crim731c/nneyaylp/884643.m3u8
 #EXTINF:-1 tvg-id="Band Curitiba" tvg-name="BAND CURITIBA FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND CURITIBA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884644
+http://38.91.101.172:80/live/crim731c/nneyaylp/884644.m3u8
 #EXTINF:-1 tvg-id="Band Curitiba" tvg-name="BAND CURITIBA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND CURITIBA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884645
+http://38.91.101.172:80/live/crim731c/nneyaylp/884645.m3u8
 #EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND CAMPINAS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884646
+http://38.91.101.172:80/live/crim731c/nneyaylp/884646.m3u8
 #EXTINF:-1 tvg-id="Band Curitiba" tvg-name="BAND PARANA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND PARANA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884647
+http://38.91.101.172:80/live/crim731c/nneyaylp/884647.m3u8
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SERGIPE HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND SERGIPE HD
-http://38.91.101.172:80/crim731c/nneyaylp/884648
+http://38.91.101.172:80/live/crim731c/nneyaylp/884648.m3u8
 #EXTINF:-1 tvg-id="BandRioGrandedoSulHD.br" tvg-name="BAND RS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND RS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884649
+http://38.91.101.172:80/live/crim731c/nneyaylp/884649.m3u8
 #EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND CAMPINAS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884650
+http://38.91.101.172:80/live/crim731c/nneyaylp/884650.m3u8
 #EXTINF:-1 tvg-id="Band Brasília" tvg-name="BAND BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND BRASILIA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884651
+http://38.91.101.172:80/live/crim731c/nneyaylp/884651.m3u8
 #EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND RJ FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884652
+http://38.91.101.172:80/live/crim731c/nneyaylp/884652.m3u8
 #EXTINF:-1 tvg-id="BandTVGoianiaHD.br" tvg-name="BAND TV GOIANIA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="REDE BANDEIRANTES",BAND TV GOIANIA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884653
+http://38.91.101.172:80/live/crim731c/nneyaylp/884653.m3u8
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title="H265 ",GLOBO BRASILIA FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884772
+http://38.91.101.172:80/live/crim731c/nneyaylp/884772.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="H265 ",SPORTV 3 FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884889
+http://38.91.101.172:80/live/crim731c/nneyaylp/884889.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="H265 ",SPORTV 2 FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884890
+http://38.91.101.172:80/live/crim731c/nneyaylp/884890.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/OFF.png" group-title="H265 ",OFF FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884891
+http://38.91.101.172:80/live/crim731c/nneyaylp/884891.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="ESPN 4 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-7_5NBTKcQRk/Yew9A-zJZ5I/AAAAAAAAK4Y/4ff_gTmqMw8WEYyR0j3acfzXEL1ws8lSQCNcBGAsYHQ/spn%2B4.png" group-title="H265 ",ESPN 4 FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884892
+http://38.91.101.172:80/live/crim731c/nneyaylp/884892.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title="H265 ",FOX SPORTS 2 FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884893
+http://38.91.101.172:80/live/crim731c/nneyaylp/884893.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="ESPN 2 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="H265 ",ESPN 2 FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884894
+http://38.91.101.172:80/live/crim731c/nneyaylp/884894.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="H265 ",ESPN EXTRA FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884895
+http://38.91.101.172:80/live/crim731c/nneyaylp/884895.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="ESPN FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="H265 ",ESPN FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884896
+http://38.91.101.172:80/live/crim731c/nneyaylp/884896.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="ESPN 3 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="H265 ",ESPN 3 FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884897
+http://38.91.101.172:80/live/crim731c/nneyaylp/884897.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="COMBATE FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="H265 ",COMBATE FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884898
+http://38.91.101.172:80/live/crim731c/nneyaylp/884898.m3u8
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="H265 ",BAND SPORTS FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884899
+http://38.91.101.172:80/live/crim731c/nneyaylp/884899.m3u8
 #EXTINF:-1 tvg-id="SporTV SD" tvg-name="SPORTV SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title=" ESPORTES",SPORTV SD
-http://38.91.101.172:80/crim731c/nneyaylp/884900
+http://38.91.101.172:80/live/crim731c/nneyaylp/884900.m3u8
 #EXTINF:-1 tvg-id="SporTV SD" tvg-name="SPORTV HD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title=" ESPORTES",SPORTV HD
-http://38.91.101.172:80/crim731c/nneyaylp/884901
+http://38.91.101.172:80/live/crim731c/nneyaylp/884901.m3u8
 #EXTINF:-1 tvg-id="SporTV SD" tvg-name="SPORTV FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title=" ESPORTES",SPORTV FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884902
+http://38.91.101.172:80/live/crim731c/nneyaylp/884902.m3u8
 #EXTINF:-1 tvg-id="SporTV 3 SD" tvg-name="SPORTV 3 SD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title=" ESPORTES",SPORTV 3 SD
-http://38.91.101.172:80/crim731c/nneyaylp/884903
+http://38.91.101.172:80/live/crim731c/nneyaylp/884903.m3u8
 #EXTINF:-1 tvg-id="SporTV 3 SD" tvg-name="SPORTV 3 HD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title=" ESPORTES",SPORTV 3 HD
-http://38.91.101.172:80/crim731c/nneyaylp/884904
+http://38.91.101.172:80/live/crim731c/nneyaylp/884904.m3u8
 #EXTINF:-1 tvg-id="SporTV 3 SD" tvg-name="SPORTV 3 FHD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title=" ESPORTES",SPORTV 3 FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884905
+http://38.91.101.172:80/live/crim731c/nneyaylp/884905.m3u8
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 SD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title=" ESPORTES",SPORTV 2 SD
-http://38.91.101.172:80/crim731c/nneyaylp/884906
+http://38.91.101.172:80/live/crim731c/nneyaylp/884906.m3u8
 #EXTINF:-1 tvg-id="SporTV 2 SD" tvg-name="SPORTV 2 HD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title=" ESPORTES",SPORTV 2 HD
-http://38.91.101.172:80/crim731c/nneyaylp/884907
+http://38.91.101.172:80/live/crim731c/nneyaylp/884907.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title=" ESPORTES",SPORTV 2 FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884908
+http://38.91.101.172:80/live/crim731c/nneyaylp/884908.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title=" ESPORTES",OFF SD
-http://38.91.101.172:80/crim731c/nneyaylp/884909
+http://38.91.101.172:80/live/crim731c/nneyaylp/884909.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title=" ESPORTES",OFF HD
-http://38.91.101.172:80/crim731c/nneyaylp/884910
+http://38.91.101.172:80/live/crim731c/nneyaylp/884910.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title=" ESPORTES",OFF FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884911
+http://38.91.101.172:80/live/crim731c/nneyaylp/884911.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 SD" tvg-logo="https://lh3.googleusercontent.com/-7_5NBTKcQRk/Yew9A-zJZ5I/AAAAAAAAK4Y/4ff_gTmqMw8WEYyR0j3acfzXEL1ws8lSQCNcBGAsYHQ/spn%2B4.png" group-title=" ESPORTES",ESPN 4 SD
-http://38.91.101.172:80/crim731c/nneyaylp/884912
+http://38.91.101.172:80/live/crim731c/nneyaylp/884912.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="https://lh3.googleusercontent.com/-7_5NBTKcQRk/Yew9A-zJZ5I/AAAAAAAAK4Y/4ff_gTmqMw8WEYyR0j3acfzXEL1ws8lSQCNcBGAsYHQ/spn%2B4.png" group-title=" ESPORTES",ESPN 4 HD
-http://38.91.101.172:80/crim731c/nneyaylp/884913
+http://38.91.101.172:80/live/crim731c/nneyaylp/884913.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://lh3.googleusercontent.com/-7_5NBTKcQRk/Yew9A-zJZ5I/AAAAAAAAK4Y/4ff_gTmqMw8WEYyR0j3acfzXEL1ws8lSQCNcBGAsYHQ/spn%2B4.png" group-title=" ESPORTES",ESPN 4 FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884914
+http://38.91.101.172:80/live/crim731c/nneyaylp/884914.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title=" ESPORTES",FOX SPORTS 2 SD
-http://38.91.101.172:80/crim731c/nneyaylp/884915
+http://38.91.101.172:80/live/crim731c/nneyaylp/884915.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title=" ESPORTES",FOX SPORTS 2 HD
-http://38.91.101.172:80/crim731c/nneyaylp/884916
+http://38.91.101.172:80/live/crim731c/nneyaylp/884916.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title=" ESPORTES",FOX SPORTS 2 FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884917
+http://38.91.101.172:80/live/crim731c/nneyaylp/884917.m3u8
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/FISHTV.png" group-title=" ESPORTES",FISH TV SD
-http://38.91.101.172:80/crim731c/nneyaylp/884918
+http://38.91.101.172:80/live/crim731c/nneyaylp/884918.m3u8
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title=" ESPORTES",ESPN 2 SD
-http://38.91.101.172:80/crim731c/nneyaylp/884919
+http://38.91.101.172:80/live/crim731c/nneyaylp/884919.m3u8
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title=" ESPORTES",ESPN 2 HD
-http://38.91.101.172:80/crim731c/nneyaylp/884920
+http://38.91.101.172:80/live/crim731c/nneyaylp/884920.m3u8
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/FISHTV.png" group-title=" ESPORTES",FISH TV FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884921
+http://38.91.101.172:80/live/crim731c/nneyaylp/884921.m3u8
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title=" ESPORTES",ESPN 2 FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884922
+http://38.91.101.172:80/live/crim731c/nneyaylp/884922.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title=" ESPORTES",ESPN EXTRA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884923
+http://38.91.101.172:80/live/crim731c/nneyaylp/884923.m3u8
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN SD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title=" ESPORTES",ESPN SD
-http://38.91.101.172:80/crim731c/nneyaylp/884924
+http://38.91.101.172:80/live/crim731c/nneyaylp/884924.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title=" ESPORTES",ESPN EXTRA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884925
+http://38.91.101.172:80/live/crim731c/nneyaylp/884925.m3u8
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN HD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title=" ESPORTES",ESPN HD
-http://38.91.101.172:80/crim731c/nneyaylp/884926
+http://38.91.101.172:80/live/crim731c/nneyaylp/884926.m3u8
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN FHD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title=" ESPORTES",ESPN FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884927
+http://38.91.101.172:80/live/crim731c/nneyaylp/884927.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 SD" tvg-name="ESPN 3 SD" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title=" ESPORTES",ESPN 3 SD
-http://38.91.101.172:80/crim731c/nneyaylp/884928
+http://38.91.101.172:80/live/crim731c/nneyaylp/884928.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 SD" tvg-name="ESPN 3 HD" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title=" ESPORTES",ESPN 3 HD
-http://38.91.101.172:80/crim731c/nneyaylp/884929
+http://38.91.101.172:80/live/crim731c/nneyaylp/884929.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 SD" tvg-name="ESPN 3 FHD" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title=" ESPORTES",ESPN 3 FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884930
+http://38.91.101.172:80/live/crim731c/nneyaylp/884930.m3u8
 #EXTINF:-1 tvg-id="Combate SD" tvg-name="COMBATE SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title=" ESPORTES",COMBATE SD
-http://38.91.101.172:80/crim731c/nneyaylp/884931
+http://38.91.101.172:80/live/crim731c/nneyaylp/884931.m3u8
 #EXTINF:-1 tvg-id="Combate SD" tvg-name="COMBATE HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title=" ESPORTES",COMBATE HD
-http://38.91.101.172:80/crim731c/nneyaylp/884932
+http://38.91.101.172:80/live/crim731c/nneyaylp/884932.m3u8
 #EXTINF:-1 tvg-id="Combate SD" tvg-name="COMBATE FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title=" ESPORTES",COMBATE FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884933
+http://38.91.101.172:80/live/crim731c/nneyaylp/884933.m3u8
 #EXTINF:-1 tvg-id="Band Sports SD" tvg-name="BAND SPORTS SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title=" ESPORTES",BAND SPORTS SD
-http://38.91.101.172:80/crim731c/nneyaylp/884934
+http://38.91.101.172:80/live/crim731c/nneyaylp/884934.m3u8
 #EXTINF:-1 tvg-id="Band Sports SD" tvg-name="BAND SPORTS HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title=" ESPORTES",BAND SPORTS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884935
+http://38.91.101.172:80/live/crim731c/nneyaylp/884935.m3u8
 #EXTINF:-1 tvg-id="Band Sports SD" tvg-name="BAND SPORTS FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title=" ESPORTES",BAND SPORTS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884936
+http://38.91.101.172:80/live/crim731c/nneyaylp/884936.m3u8
 #EXTINF:-1 tvg-id="SporTV SD" tvg-name="SPORTV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="H265 ",SPORTV FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884937
+http://38.91.101.172:80/live/crim731c/nneyaylp/884937.m3u8
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="H265 ",GLOBO TV ANHANGUERA GOIANIA FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884938
+http://38.91.101.172:80/live/crim731c/nneyaylp/884938.m3u8
 #EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="GLOBO MINAS FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="H265 ",GLOBO MINAS FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884939
+http://38.91.101.172:80/live/crim731c/nneyaylp/884939.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="H265 ",GLOBO SP FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884940
+http://38.91.101.172:80/live/crim731c/nneyaylp/884940.m3u8
 #EXTINF:-1 tvg-id="TV Integração Uberlândia HD" tvg-name="GLOBO INTEGRAO MG HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO INTEGRAO MG HD
-http://38.91.101.172:80/crim731c/nneyaylp/884941
+http://38.91.101.172:80/live/crim731c/nneyaylp/884941.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="GLOBO INTEGRAO MG FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO INTEGRAO MG FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884942
+http://38.91.101.172:80/live/crim731c/nneyaylp/884942.m3u8
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV VERDES MARES FORTALEZA SD
-http://38.91.101.172:80/crim731c/nneyaylp/884943
+http://38.91.101.172:80/live/crim731c/nneyaylp/884943.m3u8
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV VERDES MARES FORTALEZA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884944
+http://38.91.101.172:80/live/crim731c/nneyaylp/884944.m3u8
 #EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA S J CAMPOS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV VANGUARDA S J CAMPOS SD
-http://38.91.101.172:80/crim731c/nneyaylp/884945
+http://38.91.101.172:80/live/crim731c/nneyaylp/884945.m3u8
 #EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA S J CAMPOS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV VANGUARDA S J CAMPOS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884946
+http://38.91.101.172:80/live/crim731c/nneyaylp/884946.m3u8
 #EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV RIO SUL HD
-http://38.91.101.172:80/crim731c/nneyaylp/884947
+http://38.91.101.172:80/live/crim731c/nneyaylp/884947.m3u8
 #EXTINF:-1 tvg-id="TV Morena HD" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV MORENA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884948
+http://38.91.101.172:80/live/crim731c/nneyaylp/884948.m3u8
 #EXTINF:-1 tvg-id="TV Integração Uberlândia HD" tvg-name="GLOBO TV INTEGRACAO ARAXA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV INTEGRACAO ARAXA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884949
+http://38.91.101.172:80/live/crim731c/nneyaylp/884949.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV GAZETA SUL ES HD
-http://38.91.101.172:80/crim731c/nneyaylp/884950
+http://38.91.101.172:80/live/crim731c/nneyaylp/884950.m3u8
 #EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV GAZETA DE ALAGOAS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884951
+http://38.91.101.172:80/live/crim731c/nneyaylp/884951.m3u8
 #EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="GLOBO TV GAZETA DE ALAGOAS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV GAZETA DE ALAGOAS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884952
+http://38.91.101.172:80/live/crim731c/nneyaylp/884952.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="GLOBO TV DIARIO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV DIARIO HD
-http://38.91.101.172:80/crim731c/nneyaylp/884953
+http://38.91.101.172:80/live/crim731c/nneyaylp/884953.m3u8
 #EXTINF:-1 tvg-id="Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV CLUBE TERESINA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884954
+http://38.91.101.172:80/live/crim731c/nneyaylp/884954.m3u8
 #EXTINF:-1 tvg-id="Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV CLUBE TERESINA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884955
+http://38.91.101.172:80/live/crim731c/nneyaylp/884955.m3u8
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV CENTRO AMERICA CUIABA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884956
+http://38.91.101.172:80/live/crim731c/nneyaylp/884956.m3u8
 #EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV CABO BRANCO HD
-http://38.91.101.172:80/crim731c/nneyaylp/884957
+http://38.91.101.172:80/live/crim731c/nneyaylp/884957.m3u8
 #EXTINF:-1 tvg-id="TVAsabranca.br" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV ASA BRANCA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884958
+http://38.91.101.172:80/live/crim731c/nneyaylp/884958.m3u8
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV ANHANGUERA GOIANIA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884959
+http://38.91.101.172:80/live/crim731c/nneyaylp/884959.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO SP SD
-http://38.91.101.172:80/crim731c/nneyaylp/884960
+http://38.91.101.172:80/live/crim731c/nneyaylp/884960.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO SP HD
-http://38.91.101.172:80/crim731c/nneyaylp/884961
+http://38.91.101.172:80/live/crim731c/nneyaylp/884961.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO SP FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884962
+http://38.91.101.172:80/live/crim731c/nneyaylp/884962.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SJRP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO SJRP HD
-http://38.91.101.172:80/crim731c/nneyaylp/884963
+http://38.91.101.172:80/live/crim731c/nneyaylp/884963.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO SERGIPE HD
-http://38.91.101.172:80/crim731c/nneyaylp/884964
+http://38.91.101.172:80/live/crim731c/nneyaylp/884964.m3u8
 #EXTINF:-1 tvg-id="RPCMaringa" tvg-name="GLOBO RPC TV MARINGA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RPC TV MARINGA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884965
+http://38.91.101.172:80/live/crim731c/nneyaylp/884965.m3u8
 #EXTINF:-1 tvg-id="RPCParanavai" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RPC PARANAVAI FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884966
+http://38.91.101.172:80/live/crim731c/nneyaylp/884966.m3u8
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RPC FOZ DO IGUACU HD
-http://38.91.101.172:80/crim731c/nneyaylp/884967
+http://38.91.101.172:80/live/crim731c/nneyaylp/884967.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RPC CURITIBA SD
-http://38.91.101.172:80/crim731c/nneyaylp/884968
+http://38.91.101.172:80/live/crim731c/nneyaylp/884968.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RPC CURITIBA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884969
+http://38.91.101.172:80/live/crim731c/nneyaylp/884969.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RPC CURITIBA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884970
+http://38.91.101.172:80/live/crim731c/nneyaylp/884970.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RJ SD
-http://38.91.101.172:80/crim731c/nneyaylp/884971
+http://38.91.101.172:80/live/crim731c/nneyaylp/884971.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RJ HD
-http://38.91.101.172:80/crim731c/nneyaylp/884972
+http://38.91.101.172:80/live/crim731c/nneyaylp/884972.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="H265 ",GLOBO RJ FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/884973
+http://38.91.101.172:80/live/crim731c/nneyaylp/884973.m3u8
 #EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO REDE AMAZONICA HD
-http://38.91.101.172:80/crim731c/nneyaylp/884974
+http://38.91.101.172:80/live/crim731c/nneyaylp/884974.m3u8
 #EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="GLOBO REDE AMAZONICA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO REDE AMAZONICA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884975
+http://38.91.101.172:80/live/crim731c/nneyaylp/884975.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PORTO ALEGRE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RBS PORTO ALEGRE SD
-http://38.91.101.172:80/crim731c/nneyaylp/884976
+http://38.91.101.172:80/live/crim731c/nneyaylp/884976.m3u8
 #EXTINF:-1 tvg-id="RBS TV Santa Maria HD" tvg-name="GLOBO RBS TV SANTA MARIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RBS TV SANTA MARIA SD
-http://38.91.101.172:80/crim731c/nneyaylp/884977
+http://38.91.101.172:80/live/crim731c/nneyaylp/884977.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO RBS TV PORTO ALEGRE HD
-http://38.91.101.172:80/crim731c/nneyaylp/884978
+http://38.91.101.172:80/live/crim731c/nneyaylp/884978.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO PORTO VELHO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO PORTO VELHO HD
-http://38.91.101.172:80/crim731c/nneyaylp/884979
+http://38.91.101.172:80/live/crim731c/nneyaylp/884979.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO PORTO VELHO FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO PORTO VELHO FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884980
+http://38.91.101.172:80/live/crim731c/nneyaylp/884980.m3u8
 #EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO NSC TV JOINVILLE HD
-http://38.91.101.172:80/crim731c/nneyaylp/884981
+http://38.91.101.172:80/live/crim731c/nneyaylp/884981.m3u8
 #EXTINF:-1 tvg-id="NSCTVChapecoHD" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO NSC TV CHAPECO HD
-http://38.91.101.172:80/crim731c/nneyaylp/884982
+http://38.91.101.172:80/live/crim731c/nneyaylp/884982.m3u8
 #EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="GLOBO NSC TV BLUMENAL HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO NSC TV BLUMENAL HD
-http://38.91.101.172:80/crim731c/nneyaylp/884983
+http://38.91.101.172:80/live/crim731c/nneyaylp/884983.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO NORDESTE SD
-http://38.91.101.172:80/crim731c/nneyaylp/884984
+http://38.91.101.172:80/live/crim731c/nneyaylp/884984.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO NORDESTE HD
-http://38.91.101.172:80/crim731c/nneyaylp/884985
+http://38.91.101.172:80/live/crim731c/nneyaylp/884985.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO NORDESTE FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884986
+http://38.91.101.172:80/live/crim731c/nneyaylp/884986.m3u8
 #EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="GLOBO MINAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO MINAS SD
-http://38.91.101.172:80/crim731c/nneyaylp/884987
+http://38.91.101.172:80/live/crim731c/nneyaylp/884987.m3u8
 #EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="GLOBO MINAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO MINAS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884988
+http://38.91.101.172:80/live/crim731c/nneyaylp/884988.m3u8
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO INTER TV SERRA MAR HD
-http://38.91.101.172:80/crim731c/nneyaylp/884989
+http://38.91.101.172:80/live/crim731c/nneyaylp/884989.m3u8
 #EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO INTER VALE MG HD
-http://38.91.101.172:80/crim731c/nneyaylp/884990
+http://38.91.101.172:80/live/crim731c/nneyaylp/884990.m3u8
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO INTER TV CABUGI SD
-http://38.91.101.172:80/crim731c/nneyaylp/884991
+http://38.91.101.172:80/live/crim731c/nneyaylp/884991.m3u8
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO INTER TV ALTO LITORAL HD
-http://38.91.101.172:80/crim731c/nneyaylp/884992
+http://38.91.101.172:80/live/crim731c/nneyaylp/884992.m3u8
 #EXTINF:-1 tvg-id="TVGazetaes.br" tvg-name="GLOBO GAZETA VITORIA ES FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO GAZETA VITORIA ES FHD
-http://38.91.101.172:80/crim731c/nneyaylp/884993
+http://38.91.101.172:80/live/crim731c/nneyaylp/884993.m3u8
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO INTER TV CABUGI HD
-http://38.91.101.172:80/crim731c/nneyaylp/884994
+http://38.91.101.172:80/live/crim731c/nneyaylp/884994.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO GAZETA VITORIA  ES HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO GAZETA VITORIA  ES HD
-http://38.91.101.172:80/crim731c/nneyaylp/884995
+http://38.91.101.172:80/live/crim731c/nneyaylp/884995.m3u8
 #EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO FLORIANOPOLIS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884996
+http://38.91.101.172:80/live/crim731c/nneyaylp/884996.m3u8
 #EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO EPTV SUL DE MINAS HD
-http://38.91.101.172:80/crim731c/nneyaylp/884997
+http://38.91.101.172:80/live/crim731c/nneyaylp/884997.m3u8
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO EPTV SAO CARLOS SD
-http://38.91.101.172:80/crim731c/nneyaylp/884998
+http://38.91.101.172:80/live/crim731c/nneyaylp/884998.m3u8
 #EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="GLOBO EPTV RIBEIR PRETO SD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO EPTV RIBEIR PRETO SD
-http://38.91.101.172:80/crim731c/nneyaylp/884999
+http://38.91.101.172:80/live/crim731c/nneyaylp/884999.m3u8
 #EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="GLOBO EPTV RIBEIR PRETO HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO EPTV RIBEIR PRETO HD
-http://38.91.101.172:80/crim731c/nneyaylp/885000
+http://38.91.101.172:80/live/crim731c/nneyaylp/885000.m3u8
 #EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="GLOBO EPTV RIBEIR PRETO FHD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO EPTV RIBEIR PRETO FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885001
+http://38.91.101.172:80/live/crim731c/nneyaylp/885001.m3u8
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO EPTV CAMPINAS SD
-http://38.91.101.172:80/crim731c/nneyaylp/885002
+http://38.91.101.172:80/live/crim731c/nneyaylp/885002.m3u8
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO EPTV CAMPINAS HD
-http://38.91.101.172:80/crim731c/nneyaylp/885003
+http://38.91.101.172:80/live/crim731c/nneyaylp/885003.m3u8
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO EPTV CAMPINAS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885004
+http://38.91.101.172:80/live/crim731c/nneyaylp/885004.m3u8
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO BRASILIA SD
-http://38.91.101.172:80/crim731c/nneyaylp/885005
+http://38.91.101.172:80/live/crim731c/nneyaylp/885005.m3u8
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO BRASILIA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885006
+http://38.91.101.172:80/live/crim731c/nneyaylp/885006.m3u8
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title="H265 ",GLOBO BRASILIA FHD (H265)
-http://38.91.101.172:80/crim731c/nneyaylp/885007
+http://38.91.101.172:80/live/crim731c/nneyaylp/885007.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO BOA VISTA HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO BOA VISTA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885008
+http://38.91.101.172:80/live/crim731c/nneyaylp/885008.m3u8
 #EXTINF:-1 tvg-id="GloboBeloHorizonteHD" tvg-name="GLOBO BOA VISTA FHD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO BOA VISTA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885009
+http://38.91.101.172:80/live/crim731c/nneyaylp/885009.m3u8
 #EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="GLOBO BELEM SD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO BELEM SD
-http://38.91.101.172:80/crim731c/nneyaylp/885010
+http://38.91.101.172:80/live/crim731c/nneyaylp/885010.m3u8
 #EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="GLOBO BELEM HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO BELEM HD
-http://38.91.101.172:80/crim731c/nneyaylp/885011
+http://38.91.101.172:80/live/crim731c/nneyaylp/885011.m3u8
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO BAHIA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885012
+http://38.91.101.172:80/live/crim731c/nneyaylp/885012.m3u8
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA FHD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO BAHIA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885013
+http://38.91.101.172:80/live/crim731c/nneyaylp/885013.m3u8
 #EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA S J CAMPOS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV VANGUARDA S J CAMPOS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885058
+http://38.91.101.172:80/live/crim731c/nneyaylp/885058.m3u8
 #EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA FHD (SANTOS)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TRIBUNA FHD (SANTOS)
-http://38.91.101.172:80/crim731c/nneyaylp/885059
+http://38.91.101.172:80/live/crim731c/nneyaylp/885059.m3u8
 #EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA HD (SANTOS)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TRIBUNA HD (SANTOS)
-http://38.91.101.172:80/crim731c/nneyaylp/885060
+http://38.91.101.172:80/live/crim731c/nneyaylp/885060.m3u8
 #EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA SD (SANTOS)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TRIBUNA SD (SANTOS)
-http://38.91.101.172:80/crim731c/nneyaylp/885061
+http://38.91.101.172:80/live/crim731c/nneyaylp/885061.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV INTEGRACAO ARAXA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV INTEGRACAO ARAXA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885062
+http://38.91.101.172:80/live/crim731c/nneyaylp/885062.m3u8
 #EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="GLOBO UBERABA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO UBERABA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885063
+http://38.91.101.172:80/live/crim731c/nneyaylp/885063.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TEM SOROCABA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885064
+http://38.91.101.172:80/live/crim731c/nneyaylp/885064.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TEM SOROCABA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885065
+http://38.91.101.172:80/live/crim731c/nneyaylp/885065.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TEM SOROCABA SD
-http://38.91.101.172:80/crim731c/nneyaylp/885066
+http://38.91.101.172:80/live/crim731c/nneyaylp/885066.m3u8
 #EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO NSC TV CHAPECO FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885067
+http://38.91.101.172:80/live/crim731c/nneyaylp/885067.m3u8
 #EXTINF:-1 tvg-id="Tvcabobranco.br" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV CABO BRANCO FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885068
+http://38.91.101.172:80/live/crim731c/nneyaylp/885068.m3u8
 #EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="GLOBO ANHANGUERA ITUMBIARA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO ANHANGUERA ITUMBIARA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885069
+http://38.91.101.172:80/live/crim731c/nneyaylp/885069.m3u8
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA ITUMBIARA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO ANHANGUERA ITUMBIARA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885070
+http://38.91.101.172:80/live/crim731c/nneyaylp/885070.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO ANHANGUERA CATALAO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO ANHANGUERA CATALAO FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885071
+http://38.91.101.172:80/live/crim731c/nneyaylp/885071.m3u8
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA CATALAO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO ANHANGUERA CATALAO HD
-http://38.91.101.172:80/crim731c/nneyaylp/885072
+http://38.91.101.172:80/live/crim731c/nneyaylp/885072.m3u8
 #EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="GLOBO ANHANGUERA ANAPOLIS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO ANHANGUERA ANAPOLIS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885073
+http://38.91.101.172:80/live/crim731c/nneyaylp/885073.m3u8
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA ANAPOLIS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO ANHANGUERA ANAPOLIS HD
-http://38.91.101.172:80/crim731c/nneyaylp/885074
+http://38.91.101.172:80/live/crim731c/nneyaylp/885074.m3u8
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO INTER TV CABUGI FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885075
+http://38.91.101.172:80/live/crim731c/nneyaylp/885075.m3u8
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO INTEGRAO DIVINOLIS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO INTEGRAO DIVINOLIS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885076
+http://38.91.101.172:80/live/crim731c/nneyaylp/885076.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="GLOBO INTEGRAO DIVINOLIS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO INTEGRAO DIVINOLIS HD
-http://38.91.101.172:80/crim731c/nneyaylp/885077
+http://38.91.101.172:80/live/crim731c/nneyaylp/885077.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MOGI DAS CRUZES HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO MOGI DAS CRUZES HD
-http://38.91.101.172:80/crim731c/nneyaylp/885078
+http://38.91.101.172:80/live/crim731c/nneyaylp/885078.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MOGI DAS CRUZES FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO MOGI DAS CRUZES FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885079
+http://38.91.101.172:80/live/crim731c/nneyaylp/885079.m3u8
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO JOABA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO JOABA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885080
+http://38.91.101.172:80/live/crim731c/nneyaylp/885080.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO JOABA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO JOABA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885081
+http://38.91.101.172:80/live/crim731c/nneyaylp/885081.m3u8
 #EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="GLOBO JUIZ DE FORA MG HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO JUIZ DE FORA MG HD
-http://38.91.101.172:80/crim731c/nneyaylp/885082
+http://38.91.101.172:80/live/crim731c/nneyaylp/885082.m3u8
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO JUIZ DE FORA MG FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO JUIZ DE FORA MG FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885083
+http://38.91.101.172:80/live/crim731c/nneyaylp/885083.m3u8
 #EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="GLOBO PRESIDENTE PRUDENTE SP HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO PRESIDENTE PRUDENTE SP HD
-http://38.91.101.172:80/crim731c/nneyaylp/885084
+http://38.91.101.172:80/live/crim731c/nneyaylp/885084.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PRESIDENTE PRUDENTE SP FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO PRESIDENTE PRUDENTE SP FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885085
+http://38.91.101.172:80/live/crim731c/nneyaylp/885085.m3u8
 #EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO MONTES CLAROS MG HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO MONTES CLAROS MG HD
-http://38.91.101.172:80/crim731c/nneyaylp/885086
+http://38.91.101.172:80/live/crim731c/nneyaylp/885086.m3u8
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MONTES CLAROS MG FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO MONTES CLAROS MG FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885087
+http://38.91.101.172:80/live/crim731c/nneyaylp/885087.m3u8
 #EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RBS PORTO ALEGRE FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885088
+http://38.91.101.172:80/live/crim731c/nneyaylp/885088.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM ITAPE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TEM ITAPE HD
-http://38.91.101.172:80/crim731c/nneyaylp/885089
+http://38.91.101.172:80/live/crim731c/nneyaylp/885089.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM ITAPE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TEM ITAPE FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885090
+http://38.91.101.172:80/live/crim731c/nneyaylp/885090.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TEM BAURU FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885091
+http://38.91.101.172:80/live/crim731c/nneyaylp/885091.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TEM BAURU HD
-http://38.91.101.172:80/crim731c/nneyaylp/885092
+http://38.91.101.172:80/live/crim731c/nneyaylp/885092.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RPC PARANAVAI HD
-http://38.91.101.172:80/crim731c/nneyaylp/885093
+http://38.91.101.172:80/live/crim731c/nneyaylp/885093.m3u8
 #EXTINF:-1 tvg-id="TV Morena HD" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV MORENA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885094
+http://38.91.101.172:80/live/crim731c/nneyaylp/885094.m3u8
 #EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO NSC TV JOINVILLE FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885095
+http://38.91.101.172:80/live/crim731c/nneyaylp/885095.m3u8
 #EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="GLOBO REDE AMAZONICA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO REDE AMAZONICA SD
-http://38.91.101.172:80/crim731c/nneyaylp/885096
+http://38.91.101.172:80/live/crim731c/nneyaylp/885096.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO MARANH HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO MARANH HD
-http://38.91.101.172:80/crim731c/nneyaylp/885097
+http://38.91.101.172:80/live/crim731c/nneyaylp/885097.m3u8
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO PARAIBA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO PARAIBA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885098
+http://38.91.101.172:80/live/crim731c/nneyaylp/885098.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SJRP SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO SJRP SD
-http://38.91.101.172:80/crim731c/nneyaylp/885099
+http://38.91.101.172:80/live/crim731c/nneyaylp/885099.m3u8
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV TEM BAURU SD
-http://38.91.101.172:80/crim731c/nneyaylp/885100
+http://38.91.101.172:80/live/crim731c/nneyaylp/885100.m3u8
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD
-http://38.91.101.172:80/crim731c/nneyaylp/885101
+http://38.91.101.172:80/live/crim731c/nneyaylp/885101.m3u8
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO BAHIA SD
-http://38.91.101.172:80/crim731c/nneyaylp/885102
+http://38.91.101.172:80/live/crim731c/nneyaylp/885102.m3u8
 #EXTINF:-1 tvg-id="GloboAnhangueraPalmas.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV ANHANGUERA GOIANIA SD
-http://38.91.101.172:80/crim731c/nneyaylp/885103
+http://38.91.101.172:80/live/crim731c/nneyaylp/885103.m3u8
 #EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="GLOBO NSC TV BLUMENAL FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO NSC TV BLUMENAL FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885104
+http://38.91.101.172:80/live/crim731c/nneyaylp/885104.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RBS PASSO FUNDO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RBS PASSO FUNDO FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885105
+http://38.91.101.172:80/live/crim731c/nneyaylp/885105.m3u8
 #EXTINF:-1 tvg-id="RPCPontaGrossa" tvg-name="GLOBO RBS PASSO FUNDO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RBS PASSO FUNDO HD
-http://38.91.101.172:80/crim731c/nneyaylp/885106
+http://38.91.101.172:80/live/crim731c/nneyaylp/885106.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RPC CASCAVEL FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885107
+http://38.91.101.172:80/live/crim731c/nneyaylp/885107.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RPC CASCAVEL HD
-http://38.91.101.172:80/crim731c/nneyaylp/885108
+http://38.91.101.172:80/live/crim731c/nneyaylp/885108.m3u8
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO JUAZEIRO BAHIA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO JUAZEIRO BAHIA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885109
+http://38.91.101.172:80/live/crim731c/nneyaylp/885109.m3u8
 #EXTINF:-1 tvg-id="Globo Aracaju" tvg-name="GLOBO JUAZEIRO BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO JUAZEIRO BAHIA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885110
+http://38.91.101.172:80/live/crim731c/nneyaylp/885110.m3u8
 #EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO INTER VALE MG FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO INTER VALE MG FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885111
+http://38.91.101.172:80/live/crim731c/nneyaylp/885111.m3u8
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO INTER TV SERRA MAR FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885112
+http://38.91.101.172:80/live/crim731c/nneyaylp/885112.m3u8
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RPC FOZ DO IGUACU FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885113
+http://38.91.101.172:80/live/crim731c/nneyaylp/885113.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PELOTAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RBS PELOTAS HD
-http://38.91.101.172:80/crim731c/nneyaylp/885114
+http://38.91.101.172:80/live/crim731c/nneyaylp/885114.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PELOTAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RBS PELOTAS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885115
+http://38.91.101.172:80/live/crim731c/nneyaylp/885115.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS CAXIAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RBS CAXIAS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885116
+http://38.91.101.172:80/live/crim731c/nneyaylp/885116.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS CAXIAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO RBS CAXIAS HD
-http://38.91.101.172:80/crim731c/nneyaylp/885117
+http://38.91.101.172:80/live/crim731c/nneyaylp/885117.m3u8
 #EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO EPTV SUL DE MINAS FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885118
+http://38.91.101.172:80/live/crim731c/nneyaylp/885118.m3u8
 #EXTINF:-1 tvg-id="NSCTVChapecoHD" tvg-name="GLOBO NSC SANTA CATARINA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO NSC SANTA CATARINA HD
-http://38.91.101.172:80/crim731c/nneyaylp/885119
+http://38.91.101.172:80/live/crim731c/nneyaylp/885119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SUBAE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO BAHIA SUBAE HD
-http://38.91.101.172:80/crim731c/nneyaylp/885120
+http://38.91.101.172:80/live/crim731c/nneyaylp/885120.m3u8
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA SANTA CRUZ HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO BAHIA SANTA CRUZ HD
-http://38.91.101.172:80/crim731c/nneyaylp/885121
+http://38.91.101.172:80/live/crim731c/nneyaylp/885121.m3u8
 #EXTINF:-1 tvg-id="TV Integração Uberlândia HD" tvg-name="GLOBO UBERABA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO UBERABA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885122
+http://38.91.101.172:80/live/crim731c/nneyaylp/885122.m3u8
 #EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title=" GLOBO",GLOBO TV ASA BRANCA FHD
-http://38.91.101.172:80/crim731c/nneyaylp/885123
-#EXTINF:-1 tvg-id="" tvg-name="24H A VIDA COMO ELA " tvg-logo="" group-title="NOVELAS 24h",24H A VIDA COMO ELA 
-http://38.91.101.172:80/crim731c/nneyaylp/888799
+http://38.91.101.172:80/live/crim731c/nneyaylp/885123.m3u8
