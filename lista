@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="BandTVGoianiaHD.br" tvg-name="BAND TV GOIANIA FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="H265 ",BAND TV GOIANIA FHD (H265)
 http://38.91.101.172:80/crim731c/nneyaylp/884631
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="REDE BANDEIRANTES",BAND SP HD
