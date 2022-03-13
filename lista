@@ -1,4 +1,16 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ao/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo SP
+https://origin-02.nxplay.com.br/TV__-TEM/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo RJ
+http://50.7.34.155:2201/BR/Globo_HD_RJ-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo MG
+http://168.205.87.198:8555/live/1499/123456/70.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO BA" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo BA
+https://canal1.proxy.tokplay.com.br/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xbkYDeg.png" group-title="Shop",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AVidaModernaDeRocko.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="Kids",A vida moderna de Rocko (720p)
