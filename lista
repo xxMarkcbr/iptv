@@ -1,52 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/37361.ts
-
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT SP
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/61970.ts
-
 #EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | RecordTV",RecordTV HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36947.ts
-
 #EXTINF:-1 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/41530.ts
-
 #EXTINF:-1 tvg-id="TV Brasil 2 HD" tvg-name="TV Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/63632.ts
-
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Premiere",Premiere Clubes HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36948.ts
-
 #EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Premiere",Premiere 2 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36952.ts
-
 #EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Premiere",Premiere 3 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36951.ts
-
 #EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Premiere",Premiere 4 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36950.ts
-
 #EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Premiere",Premiere 5 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36949.ts
-
 #EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Premiere",Premiere 6 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36906.ts
-
 #EXTINF:-1 tvg-id="Premiere 7 HD" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Premiere",Premiere 7 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36905.ts
-
 #EXTINF:-1 tvg-id="Premiere 8 HD" tvg-name="Premiere 8 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Premiere",Premiere 8 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/64657.ts
-
 #EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV! HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36946.ts
-
 #EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV HD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",SporTV HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/37255.ts
-
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",SporTV 2 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36943.ts
-
 #EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",SporTV 3 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36942.ts
 
