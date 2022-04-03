@@ -5,8 +5,24 @@ http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/37361.ts
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT SP
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/61970.ts
 
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
+http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/37048.ts
+
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
+http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36945.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="RECORD HD [ALT]" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD HD [ALT]
+http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/51006.ts
+
 #EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | RecordTV",RecordTV HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36947.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="RECORD [ALT]" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD [ALT]
+http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/51012.ts
+
+#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP
+http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/68522.ts
+
 
 #EXTINF:-1 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/41530.ts
