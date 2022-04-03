@@ -50,3 +50,14 @@ http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36943.ts
 #EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",SporTV 3 HD
 http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/36942.ts
 
+#EXTINF:-1 tvg-id="TV Brasil 2 HD" tvg-name="TV Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil HD
+http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/63632.ts
+
+#EXTINF:-1 tvg-id="TV Brasil 2" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil
+http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/62133.ts
+
+#EXTINF:-1 tvg-id="TV Brasil FHD" tvg-name="TV Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Full HD",TV Brasil FHD
+http://tv.minhalista.me/live/Tiagosouza/Tiagosouza/75171.ts
+
+
+
