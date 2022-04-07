@@ -3,4 +3,17 @@
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo RS HD
 https://live-as-08-25.video.globo.com/h/0401649438321396846732616493519218322960300-RhAjC0-rWCaF5MNs5fFxQ/k/html5/a/F/u/2ff3a604-270c-4b2c-9a87-e272aef2b538/nu/globo-rj/globo-rj-audio_1=96000-video=1476992.m3u8
 
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",SBT
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",BAND
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",BAND
+https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",RECORD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="REDETV" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",REDETV TOCANTINS
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
