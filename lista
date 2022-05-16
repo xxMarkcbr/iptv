@@ -4,7 +4,7 @@
 https://live-as-04-14.video.globo.com/h/0401652718417121764402016526320171481638435VCz7HXf_h2vqy6ymylRvOw/k/html5/a/F/u/2ff3a604-270c-4b2c-9a87-e272aef2b538/nu/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",SBT
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",BAND
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
