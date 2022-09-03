@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo RS HD
-https://live-cm-al-10-38.video.globo.com/h/0401662218865123083302616621324653497403393q52VA6C2oMUzsZgK4htT_w/k/html5/a/F/u/2ff3a604-270c-4b2c-9a87-e272aef2b538/nu/f(dvr=180,i=2)/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
+https://live-cm-al-10-38.video.globo.com/h/0401662300112183003373316622137121702874869PYRFDTBCiWZMnUZ4J7FcwA/k/html5/a/F/u/2ff3a604-270c-4b2c-9a87-e272aef2b538/nu/f(dvr=180,i=2)/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
